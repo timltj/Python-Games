@@ -1,2 +1,2 @@
 # Python-Games
-Self-created small to medium scale Python games.
+Self-written small to medium scale Python games.
